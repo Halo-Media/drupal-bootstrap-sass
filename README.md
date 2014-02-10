@@ -1,10 +1,14 @@
 drupal-bootstrap-sass
 =====================
 
-sass version with slight modifications of the drupal bootstrap theme
+SASS version (w/slight modifications) of the Drupal Bootstrap theme
+http://drupal.org/projects/bootstrap
 
-BASIC INSTRUCTIONS:
+#BASIC INSTRUCTIONS:
+replace the less dir from Drupal Bootstrap SUBTHEME with the sass folder here
 
-replace the less dir from drupal bootstrap with the sass folder here, run bower to generate dependencies.
+Replace 'THEME_NAME' in bower.json with your theme's name - optionally add / remove packages here too
+
+run bower to generate dependencies
 
 use compass to monitor and build css
