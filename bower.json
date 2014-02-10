@@ -1,8 +1,9 @@
 {
-  "name": "guru",
-  "version": "0.0.0",
+  "name": "THEME_NAME",
+  "version": "0.0.1",
   "authors": [
-    "Tim <tim@halomedia.co.uk>"
+    "Tim <tim@halomedia.co.uk>",
+    "BM <ben@halomedia.co.uk>"
   ],
   "license": "MIT",
   "ignore": [
