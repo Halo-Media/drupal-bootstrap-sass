@@ -1,10 +1,10 @@
-drupal-bootstrap-sass
-=====================
+SASSy Drupal Bootstrap
+================
 
 SASS version (w/slight modifications) of the Drupal Bootstrap theme
 http://drupal.org/projects/bootstrap
 
-#BASIC INSTRUCTIONS:
+###BASIC INSTRUCTIONS:
 Install Drupal Bootstrap theme and create a SUBTHEME
 replace the less dir from Drupal Bootstrap SUBTHEME with the sass folder here
 
