@@ -1,0 +1,29 @@
+/* Bootstrap library. */
+@import "bootstrap";
+
+$black: #2a2626 !default;
+$cream: #fff2de !default;
+$grey:#5d5454 !default;
+$d-grey:#333333;
+$green:#4e9e80 !default;
+$blue:#0c8ec4 !default;
+$pink:#d16e93 !default;
+$yellow:#f1ac2b !default;
+$red:#c40c0c !default;
+$orange:#ee9a2e !default;
+
+@font-face {
+	font-family: Enamel;
+	src: url(../fonts/29D1A9_1_0.eot); /* IE9 Compat Modes */
+	src: url(../fonts/29D1A9_1_0.eot?#iefix) format('embedded-opentype'), /* IE6-IE8 */
+	     url(../fonts/29D1A9_1_0.woff) format('woff'), /* Modern Browsers */
+	     url(../fonts/29D1A9_1_0.ttf)  format('truetype') /* Safari, Android, iOS */
+	}
+ 
+/* Base-theme overrides. */
+@import "overrides";
+
+/* Theme specific. */
+@import "content";
+@import "aside";
+@import "footer";
