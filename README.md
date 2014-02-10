@@ -15,11 +15,11 @@ Run bower to generate dependencies
 
 Edit the SUBTHEME.info file to add the Bootstrap scripts - e.g.
 
-scripts[] = 'bower_components/bootstrap-sass/js/affix.js'
-scripts[] = 'bower_components/bootstrap-sass/js/alert.js'
-scripts[] = 'bower_components/bootstrap-sass/js/button.js'
-scripts[] = 'bower_components/bootstrap-sass/js/carousel.js'
-...etc
+scripts[] = 'bower_components/bootstrap-sass/js/affix.js'.
+scripts[] = 'bower_components/bootstrap-sass/js/alert.js'.
+scripts[] = 'bower_components/bootstrap-sass/js/button.js'.
+scripts[] = 'bower_components/bootstrap-sass/js/carousel.js'.
+...etc.
 
 or just the minified script
 
