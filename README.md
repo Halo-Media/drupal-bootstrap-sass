@@ -2,7 +2,7 @@ SASSy Drupal Bootstrap
 ================
 
 SASS version (w/slight modifications) of the Drupal Bootstrap theme
-http://drupal.org/projects/bootstrap
+https://drupal.org/project/bootstrap
 
 ###BASIC INSTRUCTIONS:
 Install Drupal Bootstrap theme and create a SUBTHEME
