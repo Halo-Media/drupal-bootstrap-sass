@@ -13,4 +13,16 @@ Replace 'THEME_NAME' in bower.json with your theme's name - optionally add / rem
 
 Run bower to generate dependencies
 
+Edit the SUBTHEME.info file to add the Bootstrap scripts - e.g.
+
+scripts[] = 'bower_components/bootstrap-sass/js/affix.js'
+scripts[] = 'bower_components/bootstrap-sass/js/alert.js'
+scripts[] = 'bower_components/bootstrap-sass/js/button.js'
+scripts[] = 'bower_components/bootstrap-sass/js/carousel.js'
+...etc
+
+or just the minified script
+
+scripts[] = 'bower_components/bootstrap-sass/dist/js/bootstrap.min.js'
+
 Use compass to monitor and build css
