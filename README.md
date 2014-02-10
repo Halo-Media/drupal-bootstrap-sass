@@ -1,5 +1,5 @@
 SASSy Drupal Bootstrap
-================
+======================
 
 SASS version (w/slight modifications) of the Drupal Bootstrap theme
 https://drupal.org/project/bootstrap
@@ -15,10 +15,14 @@ Run bower to generate dependencies
 
 Edit the SUBTHEME.info file to add the Bootstrap scripts - e.g.
 
-scripts[] = 'bower_components/bootstrap-sass/js/affix.js'.
-scripts[] = 'bower_components/bootstrap-sass/js/alert.js'.
-scripts[] = 'bower_components/bootstrap-sass/js/button.js'.
-scripts[] = 'bower_components/bootstrap-sass/js/carousel.js'.
+scripts[] = 'bower_components/bootstrap-sass/js/affix.js'  
+
+scripts[] = 'bower_components/bootstrap-sass/js/alert.js'  
+
+scripts[] = 'bower_components/bootstrap-sass/js/button.js'  
+
+scripts[] = 'bower_components/bootstrap-sass/js/carousel.js'  
+
 ...etc.
 
 or just the minified script
