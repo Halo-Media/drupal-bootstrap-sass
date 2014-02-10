@@ -6,10 +6,11 @@ https://drupal.org/project/bootstrap
 
 ###BASIC INSTRUCTIONS:
 Install Drupal Bootstrap theme and create a SUBTHEME
-replace the less dir from Drupal Bootstrap SUBTHEME with the sass folder here
+
+Replace the less dir from Drupal Bootstrap SUBTHEME with the sass folder here
 
 Replace 'THEME_NAME' in bower.json with your theme's name - optionally add / remove packages here too
 
-run bower to generate dependencies
+Run bower to generate dependencies
 
-use compass to monitor and build css
+Use compass to monitor and build css
