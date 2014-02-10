@@ -25,4 +25,4 @@ or just the minified script
 
 scripts[] = 'bower_components/bootstrap-sass/dist/js/bootstrap.min.js'
 
-Use compass to monitor and build css
+Use Compass to monitor and build css
